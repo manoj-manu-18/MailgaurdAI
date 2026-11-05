@@ -1,0 +1,6 @@
+{
+  "name": "MailGuard AI",
+  "description": "GenAI-Powered Intelligent Gmail Security Agent for Real-Time Threat Detection and Response",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
